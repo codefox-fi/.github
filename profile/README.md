@@ -13,3 +13,9 @@ kanban aws  jira github mqtt nextjs php  linux typescript eventbridge saas rest
 lambda  slack  github-actions terraform hasura mysql  fargate macos nodejs  ec2
 cdk     vscode    openapi    productboard   airtable   kinesis    php     macos
 ```
+
+(testing the width of the div in characters)
+```
+12345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+    10        20        30        40        50        60        70        80        90        100       110       120       130       140       150       160       170
+```
