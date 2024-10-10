@@ -9,6 +9,6 @@ Happy past customers include Kempower and Flashnode.
 Favourite stack, tech, apps, frameworks etc. in no particular order:
 
 ```
-github-actions productboard eventbridge typescript terraform airtable openapi  fargate kinesis  hasura   nextjs   github
-nodejs   kanban  vscode lambda mysql   macos   linux   slack   saas    mqtt   jira   rest   cdk     aws     ec2      php
+github-actions productboard eventbridge typescript terraform airtable openapi  kinesis fargate kanban   hasura
+nodejs vscode github nextjs lambda macos  slack mysql linux rest   saas   jira   mqtt   ec2   cdk   aws    php
 ```
